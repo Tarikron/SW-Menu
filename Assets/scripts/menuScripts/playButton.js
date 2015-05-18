@@ -4,6 +4,9 @@ function Start () {
 
 }
 
-function Update () {
+function Play () {
+if(Input.GetButton("Play")){
+Application.LoadLevel(1);
+}
 
 }
