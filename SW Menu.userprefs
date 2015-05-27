@@ -2,7 +2,8 @@
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\menuScripts\playButton.js">
     <Files>
-      <File FileName="Assets\scripts\menuScripts\playButton.js" Line="12" Column="2" />
+      <File FileName="Assets\scripts\UI\SplashScreens.cs" Line="189" Column="66" />
+      <File FileName="Assets\scripts\menuScripts\playButton.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
