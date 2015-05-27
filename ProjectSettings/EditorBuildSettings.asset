@@ -10,4 +10,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
   - enabled: 1
-    path: Assets/Scenes/Gamescreen.unity
+    path: Assets/Scenes/Swordwhisperer.unity
